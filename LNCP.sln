@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# 
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LNCP.Protocol", "LNCP.Protocol\LNCP.Protocol.csproj", "{5557B021-85F7-49E2-B289-21780BBF8F61}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LNCP.Initiator", "LNCP.Initiator\LNCP.Initiator.csproj", "{6666F11E-70EC-4D07-9A3A-EA518800085E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LNCP.Recipient", "LNCP.Recipient\LNCP.Recipient.csproj", "{FB23E781-99E9-46DA-9EF9-FB6E5567A891}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5557B021-85F7-49E2-B289-21780BBF8F61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5557B021-85F7-49E2-B289-21780BBF8F61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5557B021-85F7-49E2-B289-21780BBF8F61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5557B021-85F7-49E2-B289-21780BBF8F61}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6666F11E-70EC-4D07-9A3A-EA518800085E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6666F11E-70EC-4D07-9A3A-EA518800085E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6666F11E-70EC-4D07-9A3A-EA518800085E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6666F11E-70EC-4D07-9A3A-EA518800085E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB23E781-99E9-46DA-9EF9-FB6E5567A891}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB23E781-99E9-46DA-9EF9-FB6E5567A891}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB23E781-99E9-46DA-9EF9-FB6E5567A891}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB23E781-99E9-46DA-9EF9-FB6E5567A891}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
